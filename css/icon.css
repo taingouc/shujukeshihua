@@ -1,0 +1,40 @@
+i {
+    font-family: 'icomoon';
+    font-style: normal;
+    vertical-align: middle;
+}
+
+.icon-dot:before {
+     font-family: 'icomoon';
+     font-style: normal;
+     vertical-align: middle;
+    content: "";
+}
+
+.icon-cube::before {
+    content: "";
+}
+
+.icon-bitrise::before {
+    content: "";
+}
+
+.icon-buzzfeed::before {
+    content: "";
+}
+
+.icon-cakephp::before {
+    content: "";
+}
+
+.icon-buymeacoffee::before {
+    content: "";
+}
+
+.icon-up::before {
+    content: "";
+}
+
+.icon-down::before {
+    content: "";
+}
